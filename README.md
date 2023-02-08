@@ -7,7 +7,7 @@ Some coding stuff
 
 An image:
 
-<img src="probrabbit.png" width="600" height="500" alt="Local Image Example" class="inline"/>
+<img src="probrabbit.png" width="700" height="400" alt="Local Image Example" class="inline"/>
 
 
 Some math equation:
