@@ -12,4 +12,4 @@ An image:
 
 Some math equation:
 
-$$\|\vec{u}-\vec{v}\|=\sqrt{\sum_{i=1}{n}(u_i-v_i)^2}$$
+$$\|\vec{u}-\vec{v}\|=\sqrt{\sum_{i=1}^{n}(u_i-v_i)^2}$$
